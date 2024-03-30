@@ -13,7 +13,8 @@ const NavBar = () => {
           Om oss
         </Link>
 
-        <Link className="btn-navbar">Kontakta oss</Link>
+        <Link className="btn-navbar" to={"/contact-us"} >Kontakta oss</Link>
+        <Link className="btn-navbar" to={"/services"} >Tjänster</Link>
 
         <Link
           className="btn-navbar"
