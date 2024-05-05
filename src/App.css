@@ -80,6 +80,13 @@
   }
 }
 
+button:focus{
+  outline:none;
+}
+button .btn .btn-custom{
+  outline:none;
+}
+
 .btn-custom {
   position: relative;
   text-align: center;
@@ -88,6 +95,15 @@
   cursor: pointer;
   display: inline-block; /* Gör knappen till en block-element för att bredden ska vara relaterad till textens bredd */
   transition: font-weight 0.3s ease-in-out; /* Lägg till övergång för font-weight */
+  outline: none;
+}
+
+.btn-custom:focus{
+  outline:none;
+}
+
+.btn:focus {
+  outline:none;
 }
 
 .btn-custom:hover {
@@ -108,4 +124,9 @@
 
 .btn-custom:hover::after {
   width: 100%; /* Gör pseudo-elementet full bredd på hover */
+}
+
+.img-profile {
+  height: 100%;
+  width: 100%;
 }
