@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mstudio/static/css/main.003e68f6.css",
+    "main.js": "/mstudio/static/js/main.96328e4d.js",
+    "index.html": "/mstudio/index.html",
+    "main.003e68f6.css.map": "/mstudio/static/css/main.003e68f6.css.map",
+    "main.96328e4d.js.map": "/mstudio/static/js/main.96328e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.003e68f6.css",
+    "static/js/main.96328e4d.js"
+  ]
+}
