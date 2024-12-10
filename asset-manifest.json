@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.003e68f6.css",
-    "main.js": "/static/js/main.c2c83e8e.js",
-    "static/media/vero.JPG": "/static/media/vero.cb14a90f2f73dabbb03a.JPG",
-    "index.html": "/index.html",
-    "main.003e68f6.css.map": "/static/css/main.003e68f6.css.map",
-    "main.c2c83e8e.js.map": "/static/js/main.c2c83e8e.js.map"
+    "main.css": "/magicbookify.com/static/css/main.003e68f6.css",
+    "main.js": "/magicbookify.com/static/js/main.350a8095.js",
+    "static/media/vero.JPG": "/magicbookify.com/static/media/vero.cb14a90f2f73dabbb03a.JPG",
+    "index.html": "/magicbookify.com/index.html",
+    "main.003e68f6.css.map": "/magicbookify.com/static/css/main.003e68f6.css.map",
+    "main.350a8095.js.map": "/magicbookify.com/static/js/main.350a8095.js.map"
   },
   "entrypoints": [
     "static/css/main.003e68f6.css",
-    "static/js/main.c2c83e8e.js"
+    "static/js/main.350a8095.js"
   ]
 }
